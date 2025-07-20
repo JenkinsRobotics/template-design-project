@@ -1,5 +1,5 @@
 ## Jenkins Robotics
-# Jenkins CNC
+# Project Template
 
 <!-- This is commented out. -->
 
@@ -15,7 +15,8 @@ Development Status : <mark style="background-color: red"> &nbsp; NOT ACTIVE &nbs
 ## General Information
 
 
- This is the project files for our Shapeoko 3 xxl. Our goal is to make our shapeoko 3 as automated as possible. To achive this goal we have installed multiple upgrades onto our cnc including: 
+ This is a template README file designed to be adapted for your specific project. Replace this text with a brief overview of your project's purpose and goals.
+For example, you might describe the problem your project solves, its primary features, or its target audience. 
 - [x] Automated Tool Change
 - [x] Manual Tool Change
 - [x] Coolent 
@@ -191,7 +192,7 @@ That’s  all Folks. Hope this can help you in some way.
 
 SUPPORT US ► 
 
-Consider Subscribing: https://bit.ly/2DgZyuq <br>
+Consider Subscribing: https://www.youtube.com/@Jenkins_Robotics<br>
 Patreon ➔ https://www.patreon.com/JenkinsRobotics  <br>
 Venmo ➔ https://venmo.com/u/JenkinsRobotics <br>
 
